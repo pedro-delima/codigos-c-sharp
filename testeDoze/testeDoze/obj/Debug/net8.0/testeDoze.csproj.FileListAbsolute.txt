@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\bin\Debug\net8.0\testeDoze.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\bin\Debug\net8.0\testeDoze.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\bin\Debug\net8.0\testeDoze.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\bin\Debug\net8.0\testeDoze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\bin\Debug\net8.0\testeDoze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\refint\testeDoze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\testeDoze.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDoze\testeDoze\obj\Debug\net8.0\ref\testeDoze.dll

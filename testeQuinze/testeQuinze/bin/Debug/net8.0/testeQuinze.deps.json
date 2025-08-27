@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeQuinze/1.0.0": {
+        "runtime": {
+          "testeQuinze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeQuinze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

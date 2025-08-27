@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\bin\Debug\net8.0\testeTres.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\bin\Debug\net8.0\testeTres.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\bin\Debug\net8.0\testeTres.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\bin\Debug\net8.0\testeTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\bin\Debug\net8.0\testeTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\refint\testeTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\testeTres.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTres\testeTres\obj\Debug\net8.0\ref\testeTres.dll

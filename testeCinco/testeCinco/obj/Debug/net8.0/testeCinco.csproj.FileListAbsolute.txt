@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\bin\Debug\net8.0\testeCinco.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\bin\Debug\net8.0\testeCinco.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\bin\Debug\net8.0\testeCinco.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\bin\Debug\net8.0\testeCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\bin\Debug\net8.0\testeCinco.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\refint\testeCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\testeCinco.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinco\testeCinco\obj\Debug\net8.0\ref\testeCinco.dll

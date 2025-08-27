@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\bin\Debug\net8.0\testeVinteSete.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\bin\Debug\net8.0\testeVinteSete.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\bin\Debug\net8.0\testeVinteSete.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\bin\Debug\net8.0\testeVinteSete.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\bin\Debug\net8.0\testeVinteSete.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\refint\testeVinteSete.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\testeVinteSete.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteSete\testeVinteSete\obj\Debug\net8.0\ref\testeVinteSete.dll

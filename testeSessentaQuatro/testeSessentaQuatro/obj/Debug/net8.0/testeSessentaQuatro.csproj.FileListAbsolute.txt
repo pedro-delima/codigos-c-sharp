@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\bin\Debug\net8.0\testeSessentaQuatro.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\bin\Debug\net8.0\testeSessentaQuatro.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\bin\Debug\net8.0\testeSessentaQuatro.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\bin\Debug\net8.0\testeSessentaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\bin\Debug\net8.0\testeSessentaQuatro.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\refint\testeSessentaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\testeSessentaQuatro.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaQuatro\testeSessentaQuatro\obj\Debug\net8.0\ref\testeSessentaQuatro.dll

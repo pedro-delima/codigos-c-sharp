@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\bin\Debug\net8.0\testeQuarentaDois.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\bin\Debug\net8.0\testeQuarentaDois.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\bin\Debug\net8.0\testeQuarentaDois.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\bin\Debug\net8.0\testeQuarentaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\bin\Debug\net8.0\testeQuarentaDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\refint\testeQuarentaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\testeQuarentaDois.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaDois\testeQuarentaDois\obj\Debug\net8.0\ref\testeQuarentaDois.dll

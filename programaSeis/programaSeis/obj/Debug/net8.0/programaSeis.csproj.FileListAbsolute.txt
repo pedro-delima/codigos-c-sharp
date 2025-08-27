@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\bin\Debug\net8.0\programaSeis.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\bin\Debug\net8.0\programaSeis.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\bin\Debug\net8.0\programaSeis.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\bin\Debug\net8.0\programaSeis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\bin\Debug\net8.0\programaSeis.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\refint\programaSeis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\programaSeis.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaSeis\programaSeis\obj\Debug\net8.0\ref\programaSeis.dll

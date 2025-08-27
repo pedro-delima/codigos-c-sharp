@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\bin\Debug\net8.0\programaQuatro.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\bin\Debug\net8.0\programaQuatro.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\bin\Debug\net8.0\programaQuatro.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\bin\Debug\net8.0\programaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\bin\Debug\net8.0\programaQuatro.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\refint\programaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\programaQuatro.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaQuatro\programaQuatro\obj\Debug\net8.0\ref\programaQuatro.dll

@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\bin\Debug\net8.0\testeTrintaUm.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\bin\Debug\net8.0\testeTrintaUm.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\bin\Debug\net8.0\testeTrintaUm.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\bin\Debug\net8.0\testeTrintaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\bin\Debug\net8.0\testeTrintaUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\refint\testeTrintaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\testeTrintaUm.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaUm\testeTrintaUm\obj\Debug\net8.0\ref\testeTrintaUm.dll

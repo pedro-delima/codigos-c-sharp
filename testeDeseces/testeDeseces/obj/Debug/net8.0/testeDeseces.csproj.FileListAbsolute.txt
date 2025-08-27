@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\bin\Debug\net8.0\testeDeseces.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\bin\Debug\net8.0\testeDeseces.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\bin\Debug\net8.0\testeDeseces.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\bin\Debug\net8.0\testeDeseces.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\bin\Debug\net8.0\testeDeseces.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\refint\testeDeseces.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\testeDeseces.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDeseces\testeDeseces\obj\Debug\net8.0\ref\testeDeseces.dll

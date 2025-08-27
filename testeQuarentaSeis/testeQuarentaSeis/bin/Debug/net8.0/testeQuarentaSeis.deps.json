@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeQuarentaSeis/1.0.0": {
+        "runtime": {
+          "testeQuarentaSeis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeQuarentaSeis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

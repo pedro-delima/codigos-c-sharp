@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\bin\Debug\net8.0\testeTreze.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\bin\Debug\net8.0\testeTreze.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\bin\Debug\net8.0\testeTreze.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\bin\Debug\net8.0\testeTreze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\bin\Debug\net8.0\testeTreze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\refint\testeTreze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\testeTreze.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTreze\testeTreze\obj\Debug\net8.0\ref\testeTreze.dll

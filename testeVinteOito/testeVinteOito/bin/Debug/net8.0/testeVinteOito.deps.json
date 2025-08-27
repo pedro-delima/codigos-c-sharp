@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeVinteOito/1.0.0": {
+        "runtime": {
+          "testeVinteOito.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeVinteOito/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

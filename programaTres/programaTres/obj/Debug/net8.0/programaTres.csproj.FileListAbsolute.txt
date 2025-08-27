@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\bin\Debug\net8.0\programaTres.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\bin\Debug\net8.0\programaTres.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\bin\Debug\net8.0\programaTres.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\bin\Debug\net8.0\programaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\bin\Debug\net8.0\programaTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\refint\programaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\programaTres.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaTres\programaTres\obj\Debug\net8.0\ref\programaTres.dll

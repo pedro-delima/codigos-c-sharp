@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\bin\Debug\net8.0\testeDez.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\bin\Debug\net8.0\testeDez.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\bin\Debug\net8.0\testeDez.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\bin\Debug\net8.0\testeDez.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\bin\Debug\net8.0\testeDez.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\refint\testeDez.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\testeDez.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDez\testeDez\obj\Debug\net8.0\ref\testeDez.dll

@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\bin\Debug\net8.0\testeTrintaSeis.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\bin\Debug\net8.0\testeTrintaSeis.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\bin\Debug\net8.0\testeTrintaSeis.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\bin\Debug\net8.0\testeTrintaSeis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\bin\Debug\net8.0\testeTrintaSeis.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\refint\testeTrintaSeis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\testeTrintaSeis.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaSeis\testeTrintaSeis\obj\Debug\net8.0\ref\testeTrintaSeis.dll

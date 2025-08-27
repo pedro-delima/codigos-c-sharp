@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\bin\Debug\net8.0\testeCinquentaQuatro.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\bin\Debug\net8.0\testeCinquentaQuatro.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\bin\Debug\net8.0\testeCinquentaQuatro.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\bin\Debug\net8.0\testeCinquentaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\bin\Debug\net8.0\testeCinquentaQuatro.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\refint\testeCinquentaQuatro.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\testeCinquentaQuatro.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaQuatro\testeCinquentaQuatro\obj\Debug\net8.0\ref\testeCinquentaQuatro.dll

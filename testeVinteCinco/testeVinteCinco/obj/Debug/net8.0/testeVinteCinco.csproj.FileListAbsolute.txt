@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\bin\Debug\net8.0\testeVinteCinco.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\bin\Debug\net8.0\testeVinteCinco.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\bin\Debug\net8.0\testeVinteCinco.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\bin\Debug\net8.0\testeVinteCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\bin\Debug\net8.0\testeVinteCinco.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\refint\testeVinteCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\testeVinteCinco.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteCinco\testeVinteCinco\obj\Debug\net8.0\ref\testeVinteCinco.dll

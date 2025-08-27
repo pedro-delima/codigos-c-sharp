@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\bin\Debug\net8.0\testeTrintaTreis.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\bin\Debug\net8.0\testeTrintaTreis.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\bin\Debug\net8.0\testeTrintaTreis.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\bin\Debug\net8.0\testeTrintaTreis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\bin\Debug\net8.0\testeTrintaTreis.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\refint\testeTrintaTreis.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\testeTrintaTreis.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaTreis\testeTrintaTreis\obj\Debug\net8.0\ref\testeTrintaTreis.dll

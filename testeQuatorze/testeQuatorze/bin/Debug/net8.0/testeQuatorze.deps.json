@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeQuatorze/1.0.0": {
+        "runtime": {
+          "testeQuatorze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeQuatorze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

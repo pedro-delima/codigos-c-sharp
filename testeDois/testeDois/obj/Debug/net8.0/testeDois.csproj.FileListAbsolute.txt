@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\bin\Debug\net8.0\testeDois.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\bin\Debug\net8.0\testeDois.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\bin\Debug\net8.0\testeDois.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\bin\Debug\net8.0\testeDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\bin\Debug\net8.0\testeDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\refint\testeDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\testeDois.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDois\testeDois\obj\Debug\net8.0\ref\testeDois.dll

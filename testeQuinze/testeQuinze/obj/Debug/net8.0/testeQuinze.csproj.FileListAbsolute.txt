@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\bin\Debug\net8.0\testeQuinze.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\bin\Debug\net8.0\testeQuinze.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\bin\Debug\net8.0\testeQuinze.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\bin\Debug\net8.0\testeQuinze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\bin\Debug\net8.0\testeQuinze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\refint\testeQuinze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\testeQuinze.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuinze\testeQuinze\obj\Debug\net8.0\ref\testeQuinze.dll

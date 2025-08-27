@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\bin\Debug\net8.0\programaExercicio.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\bin\Debug\net8.0\programaExercicio.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\bin\Debug\net8.0\programaExercicio.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\bin\Debug\net8.0\programaExercicio.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\bin\Debug\net8.0\programaExercicio.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\refint\programaExercicio.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\programaExercicio.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicio\programaExercicio\obj\Debug\net8.0\ref\programaExercicio.dll

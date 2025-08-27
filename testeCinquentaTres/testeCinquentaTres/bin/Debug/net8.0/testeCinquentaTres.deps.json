@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "testeCinquentaTres/1.0.0": {
+        "runtime": {
+          "testeCinquentaTres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "testeCinquentaTres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

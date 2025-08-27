@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\bin\Debug\net8.0\testeVinteUm.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\bin\Debug\net8.0\testeVinteUm.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\bin\Debug\net8.0\testeVinteUm.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\bin\Debug\net8.0\testeVinteUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\bin\Debug\net8.0\testeVinteUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\refint\testeVinteUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\testeVinteUm.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteUm\testeVinteUm\obj\Debug\net8.0\ref\testeVinteUm.dll

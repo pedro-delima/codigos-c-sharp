@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\bin\Debug\net8.0\testeCinquentaTres.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\bin\Debug\net8.0\testeCinquentaTres.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\bin\Debug\net8.0\testeCinquentaTres.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\bin\Debug\net8.0\testeCinquentaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\bin\Debug\net8.0\testeCinquentaTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\refint\testeCinquentaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\testeCinquentaTres.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaTres\testeCinquentaTres\obj\Debug\net8.0\ref\testeCinquentaTres.dll

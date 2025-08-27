@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\bin\Debug\net8.0\testeDesoito.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\bin\Debug\net8.0\testeDesoito.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\bin\Debug\net8.0\testeDesoito.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\bin\Debug\net8.0\testeDesoito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\bin\Debug\net8.0\testeDesoito.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\refint\testeDesoito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\testeDesoito.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeDesoito\testeDesoito\obj\Debug\net8.0\ref\testeDesoito.dll

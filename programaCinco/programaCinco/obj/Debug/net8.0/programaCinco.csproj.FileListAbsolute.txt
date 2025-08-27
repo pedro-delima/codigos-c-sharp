@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\bin\Debug\net8.0\programaCinco.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\bin\Debug\net8.0\programaCinco.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\bin\Debug\net8.0\programaCinco.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\bin\Debug\net8.0\programaCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\bin\Debug\net8.0\programaCinco.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\refint\programaCinco.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\programaCinco.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaCinco\programaCinco\obj\Debug\net8.0\ref\programaCinco.dll

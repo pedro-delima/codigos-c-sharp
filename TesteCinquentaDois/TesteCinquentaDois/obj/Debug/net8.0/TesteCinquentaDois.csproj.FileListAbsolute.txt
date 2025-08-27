@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\bin\Debug\net8.0\TesteCinquentaDois.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\bin\Debug\net8.0\TesteCinquentaDois.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\bin\Debug\net8.0\TesteCinquentaDois.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\bin\Debug\net8.0\TesteCinquentaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\bin\Debug\net8.0\TesteCinquentaDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\refint\TesteCinquentaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\TesteCinquentaDois.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\TesteCinquentaDois\TesteCinquentaDois\obj\Debug\net8.0\ref\TesteCinquentaDois.dll

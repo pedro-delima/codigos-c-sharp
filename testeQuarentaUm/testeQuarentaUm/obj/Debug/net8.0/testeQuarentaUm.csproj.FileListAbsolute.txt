@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\bin\Debug\net8.0\testeQuarentaUm.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\bin\Debug\net8.0\testeQuarentaUm.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\bin\Debug\net8.0\testeQuarentaUm.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\bin\Debug\net8.0\testeQuarentaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\bin\Debug\net8.0\testeQuarentaUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\refint\testeQuarentaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\testeQuarentaUm.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaUm\testeQuarentaUm\obj\Debug\net8.0\ref\testeQuarentaUm.dll

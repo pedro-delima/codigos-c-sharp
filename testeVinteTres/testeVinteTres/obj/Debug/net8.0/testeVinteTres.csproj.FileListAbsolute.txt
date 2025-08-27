@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\bin\Debug\net8.0\testeVinteTres.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\bin\Debug\net8.0\testeVinteTres.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\bin\Debug\net8.0\testeVinteTres.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\bin\Debug\net8.0\testeVinteTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\bin\Debug\net8.0\testeVinteTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\refint\testeVinteTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\testeVinteTres.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinteTres\testeVinteTres\obj\Debug\net8.0\ref\testeVinteTres.dll

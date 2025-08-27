@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\bin\Debug\net8.0\testeQuarentaOito.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\bin\Debug\net8.0\testeQuarentaOito.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\bin\Debug\net8.0\testeQuarentaOito.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\bin\Debug\net8.0\testeQuarentaOito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\bin\Debug\net8.0\testeQuarentaOito.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\refint\testeQuarentaOito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\testeQuarentaOito.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuarentaOito\testeQuarentaOito\obj\Debug\net8.0\ref\testeQuarentaOito.dll

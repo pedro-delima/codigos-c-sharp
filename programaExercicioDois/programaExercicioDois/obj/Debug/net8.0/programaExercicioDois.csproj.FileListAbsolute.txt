@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\bin\Debug\net8.0\programaExercicioDois.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\bin\Debug\net8.0\programaExercicioDois.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\bin\Debug\net8.0\programaExercicioDois.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\bin\Debug\net8.0\programaExercicioDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\bin\Debug\net8.0\programaExercicioDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\refint\programaExercicioDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\programaExercicioDois.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaExercicioDois\programaExercicioDois\obj\Debug\net8.0\ref\programaExercicioDois.dll

@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\bin\Debug\net8.0\testeCinquentaUm.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\bin\Debug\net8.0\testeCinquentaUm.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\bin\Debug\net8.0\testeCinquentaUm.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\bin\Debug\net8.0\testeCinquentaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\bin\Debug\net8.0\testeCinquentaUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\refint\testeCinquentaUm.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\testeCinquentaUm.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaUm\testeCinquentaUm\obj\Debug\net8.0\ref\testeCinquentaUm.dll

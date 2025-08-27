@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\bin\Debug\net8.0\testeCinquentaSete.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\bin\Debug\net8.0\testeCinquentaSete.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\bin\Debug\net8.0\testeCinquentaSete.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\bin\Debug\net8.0\testeCinquentaSete.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\bin\Debug\net8.0\testeCinquentaSete.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\refint\testeCinquentaSete.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\testeCinquentaSete.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeCinquentaSete\testeCinquentaSete\obj\Debug\net8.0\ref\testeCinquentaSete.dll

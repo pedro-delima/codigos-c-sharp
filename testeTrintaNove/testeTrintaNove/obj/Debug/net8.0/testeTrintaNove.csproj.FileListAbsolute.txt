@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\bin\Debug\net8.0\testeTrintaNove.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\bin\Debug\net8.0\testeTrintaNove.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\bin\Debug\net8.0\testeTrintaNove.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\bin\Debug\net8.0\testeTrintaNove.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\bin\Debug\net8.0\testeTrintaNove.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\refint\testeTrintaNove.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\testeTrintaNove.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrintaNove\testeTrintaNove\obj\Debug\net8.0\ref\testeTrintaNove.dll

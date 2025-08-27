@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\bin\Debug\net8.0\testeVinte.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\bin\Debug\net8.0\testeVinte.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\bin\Debug\net8.0\testeVinte.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\bin\Debug\net8.0\testeVinte.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\bin\Debug\net8.0\testeVinte.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\refint\testeVinte.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\testeVinte.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeVinte\testeVinte\obj\Debug\net8.0\ref\testeVinte.dll

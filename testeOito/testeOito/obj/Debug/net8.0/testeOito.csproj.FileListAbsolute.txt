@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\bin\Debug\net8.0\testeOito.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\bin\Debug\net8.0\testeOito.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\bin\Debug\net8.0\testeOito.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\bin\Debug\net8.0\testeOito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\bin\Debug\net8.0\testeOito.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\refint\testeOito.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\testeOito.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeOito\testeOito\obj\Debug\net8.0\ref\testeOito.dll

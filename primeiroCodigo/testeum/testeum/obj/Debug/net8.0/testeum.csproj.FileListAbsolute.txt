@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\bin\Debug\net8.0\testeum.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\bin\Debug\net8.0\testeum.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\bin\Debug\net8.0\testeum.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\bin\Debug\net8.0\testeum.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\bin\Debug\net8.0\testeum.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\refint\testeum.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\testeum.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\primeiroCodigo\testeum\testeum\obj\Debug\net8.0\ref\testeum.dll

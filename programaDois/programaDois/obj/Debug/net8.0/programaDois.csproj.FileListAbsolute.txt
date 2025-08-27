@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\bin\Debug\net8.0\programaDois.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\bin\Debug\net8.0\programaDois.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\bin\Debug\net8.0\programaDois.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\bin\Debug\net8.0\programaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\bin\Debug\net8.0\programaDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\refint\programaDois.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\programaDois.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\programaDois\programaDois\obj\Debug\net8.0\ref\programaDois.dll

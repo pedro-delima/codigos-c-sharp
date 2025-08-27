@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\bin\Debug\net8.0\testeSessentaTres.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\bin\Debug\net8.0\testeSessentaTres.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\bin\Debug\net8.0\testeSessentaTres.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\bin\Debug\net8.0\testeSessentaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\bin\Debug\net8.0\testeSessentaTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\refint\testeSessentaTres.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\testeSessentaTres.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeSessentaTres\testeSessentaTres\obj\Debug\net8.0\ref\testeSessentaTres.dll

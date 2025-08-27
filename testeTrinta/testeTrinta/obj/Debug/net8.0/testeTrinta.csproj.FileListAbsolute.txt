@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\bin\Debug\net8.0\testeTrinta.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\bin\Debug\net8.0\testeTrinta.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\bin\Debug\net8.0\testeTrinta.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\bin\Debug\net8.0\testeTrinta.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\bin\Debug\net8.0\testeTrinta.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\refint\testeTrinta.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\testeTrinta.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeTrinta\testeTrinta\obj\Debug\net8.0\ref\testeTrinta.dll

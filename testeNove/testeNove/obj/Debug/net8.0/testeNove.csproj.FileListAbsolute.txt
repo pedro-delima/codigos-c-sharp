@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\bin\Debug\net8.0\testeNove.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\bin\Debug\net8.0\testeNove.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\bin\Debug\net8.0\testeNove.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\bin\Debug\net8.0\testeNove.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\bin\Debug\net8.0\testeNove.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\refint\testeNove.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\testeNove.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeNove\testeNove\obj\Debug\net8.0\ref\testeNove.dll

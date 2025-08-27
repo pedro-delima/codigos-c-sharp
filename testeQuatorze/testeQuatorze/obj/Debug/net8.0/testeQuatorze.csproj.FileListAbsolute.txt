@@ -1,0 +1,14 @@
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.AssemblyInfoInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.AssemblyInfo.cs
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.csproj.CoreCompileInputs.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\bin\Debug\net8.0\testeQuatorze.exe
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\bin\Debug\net8.0\testeQuatorze.deps.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\bin\Debug\net8.0\testeQuatorze.runtimeconfig.json
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\bin\Debug\net8.0\testeQuatorze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\bin\Debug\net8.0\testeQuatorze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\refint\testeQuatorze.dll
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.pdb
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\testeQuatorze.genruntimeconfig.cache
+C:\Users\nyk\OneDrive\Documentos\estudo\estudo-c#\testeQuatorze\testeQuatorze\obj\Debug\net8.0\ref\testeQuatorze.dll
